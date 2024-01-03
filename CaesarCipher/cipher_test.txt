@@ -1,0 +1,5 @@
+My name is Bae, Francis.
+This is my cipher test text.
+It includes commas, periods, new lines, and capital letters.
+This is for my CISP class.
+For the Spring Semester.
